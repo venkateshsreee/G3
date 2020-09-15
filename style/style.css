@@ -1,4 +1,7 @@
 html {
+  background-image: jack-b-A1EUK5S7g_g-unsplash.jpg;
+  background-repeat: no-repeat;
+  background-size: auto;
   box-sizing: border-box;
 }
 
@@ -230,6 +233,7 @@ body {
 #replay {
   z-index: 3;
   cursor: pointer;
+  text-align:bottom;
 }
 
 /* Media Queries */
